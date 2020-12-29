@@ -1,37 +1,69 @@
-## Welcome to GitHub Pages
+# Czy znudziła Ci się już Nowa Normalność?
 
-You can use the [editor on GitHub](https://github.com/nonewnormal/nonewnormal.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Maski
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Sprzeczne informacje
 
-### Markdown
+### Skuteczność masek
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Przenoszenie wirusa przez osoby pre/asymptomatyczne
 
-```markdown
-Syntax highlighted code block
+### Negatywne konsekwencje
 
-# Header 1
-## Header 2
-### Header 3
+## Zakażenia
 
-- Bulleted
-- List
+### Testy
 
-1. Numbered
-2. List
+### Asymptomatyczność
 
-**Bold** and _Italic_ and `Code` text
+## Umieralność
 
-[Link](url) and ![Image](src)
-```
+### Statystyka
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Sposób licznia
 
-### Jekyll Themes
+### Poprzednie lata
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nonewnormal/nonewnormal.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Co się stało z grypą?
 
-### Support or Contact
+## Szczepienia
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Procedury testowania szczepień
+
+### Odpowiedzialność firm
+
+### Szczepionka mRNA
+
+### Ryzyko bezpłodności
+
+### Reakcje alergiczne
+
+### Szczepienia do tej pory
+
+## Inwigilacja
+
+### Śledzenie kontaktów (contact-tracing)
+
+#### ProteGo Safe
+
+#### Aplikacje na świecie
+
+### Donosy
+
+### Paszport szczepień
+
+## Propaganda
+
+### Kampania strachu
+
+### COVID show
+
+## Dlaczego nam to robią?
+
+### Zyski korporacji
+
+### WHO i koncerny farmaceutyczne
+
+### Kontrola
+
+## Co mogę zrobić?
