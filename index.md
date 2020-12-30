@@ -1,40 +1,9 @@
 # Czy znudziła Ci się już Nowa Normalność?
 
-- [Czy znudziła Ci się już Nowa Normalność?](#czy-znudziła-ci-się-już-nowa-normalność)
-  - [Maski](#maski)
-    - [Sprzeczne informacje](#sprzeczne-informacje)
-    - [Skuteczność masek](#skuteczność-masek)
-    - [Przenoszenie wirusa przez osoby pre/asymptomatyczne](#przenoszenie-wirusa-przez-osoby-preasymptomatyczne)
-    - [Negatywne konsekwencje](#negatywne-konsekwencje)
-  - [Zakażenia](#zakażenia)
-    - [Testy](#testy)
-    - [Asymptomatyczność](#asymptomatyczność)
-  - [Umieralność](#umieralność)
-    - [Statystyka](#statystyka)
-    - [Sposób licznia](#sposób-licznia)
-    - [Poprzednie lata](#poprzednie-lata)
-    - [Co się stało z grypą?](#co-się-stało-z-grypą)
-  - [Szczepienia](#szczepienia)
-    - [Procedury testowania szczepień](#procedury-testowania-szczepień)
-    - [Odpowiedzialność firm](#odpowiedzialność-firm)
-    - [Szczepionka mRNA](#szczepionka-mrna)
-    - [Ryzyko bezpłodności](#ryzyko-bezpłodności)
-    - [Reakcje alergiczne](#reakcje-alergiczne)
-    - [Szczepienia do tej pory](#szczepienia-do-tej-pory)
-  - [Inwigilacja](#inwigilacja)
-    - [Śledzenie kontaktów (contact-tracing)](#śledzenie-kontaktów-contact-tracing)
-      - [ProteGo Safe](#protego-safe)
-      - [Aplikacje na świecie](#aplikacje-na-świecie)
-    - [Donosy](#donosy)
-    - [Paszport szczepień](#paszport-szczepień)
-  - [Propaganda](#propaganda)
-    - [Kampania strachu](#kampania-strachu)
-    - [COVID show](#covid-show)
-  - [Dlaczego nam to robią?](#dlaczego-nam-to-robią)
-    - [Zyski korporacji](#zyski-korporacji)
-    - [WHO i koncerny farmaceutyczne](#who-i-koncerny-farmaceutyczne)
-    - [Kontrola](#kontrola)
-  - [Co mogę zrobić?](#co-mogę-zrobić)
+Maski, ograniczenia, inwigilacja i propaganda. Tak obenie przedstawia się nasza Nowa Normalność. Czy wszystkie te działania rządu są uzasadnione? Czy pomagają nam ograniczyć rozprzestrzenianie się wirusa SARS-CoV-2? Czy "lekarstwo" serwowane nam przez rząd jest gorsze od choroby?
+Trudno jest znaleźć jednoznaczne odpowiedzi na te pytania. Z jednej strony jesteśmy atakowani przez rządową propagandę, zachęcającą nas do przestrzegania obostrzeń, zapewniającą, że chodzi o nasze dobro. Z drugiej strony przez teorie spiskowe siejące strach na temat zabójczej szczepionki czy mikrochipów.
+Dlatego postanowiłem stworzyć tą stronę. Chcę dać Ci jak najwięcej informacji na temat wirusa, szczepionki i rządowych działań. Wszystki informacje na tej stronie są przedstawiane razem z linkami do źródeł. Nie będę linkował nigdy do niesprawdzonych stron głoszących teorie spiskowe. Znajdziecie tu głównie wypowiedzi specjalistów WHO, CDC, badania naukow, wypowiedzi polityków i naukowców.
+Będę się starał uaktualniać stronę wraz z pojawianiem się nowych infromacji. Ty także możesz mi pomóc w tworzeniu tej strony!
 
 ## Maski
 
